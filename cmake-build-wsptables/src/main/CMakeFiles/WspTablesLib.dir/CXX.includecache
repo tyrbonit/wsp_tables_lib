@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/include/WspTablesLib.h
+
+D:/YandexDisk/PycharmProjects/wsp_tables/src/main/numeric/WspTables.cpp
+WspTablesLib.h
+-
+WspTables_p.h
+D:/YandexDisk/PycharmProjects/wsp_tables/src/main/numeric/WspTables_p.h
+cmath
+-
+
+D:/YandexDisk/PycharmProjects/wsp_tables/src/main/numeric/WspTables_p.h
+
