@@ -30,13 +30,10 @@ Python 2.7.12 (default, Dec  4 2017, 14:50:18)
 [GCC 5.4.0 20160609] on linux2
 Type "help", "copyright", "credits" or "license" for more information.
 >>> import wsptables
->>> wsptables.fact(5)
-120.0
->>> wsptables.hello("adrian")
-Hello adrian
->>> ll=[-2, 4.5, 2]
->>> wsptables.max(ll,3)
-4.5
+>>> wsptables.wsp_HPT(130, 560)
+835.96568164127928
+>>> wsptables.wsp_HPT(130, 460)
+770.74384112939595
 >>> quit()
 ``` 
 
